@@ -1,6 +1,6 @@
 # jekyll-cut-filter
 
-This is a [Liquid](http://liquidmarkup.org/) filter intended to be used with [Jekyll](http://github.com/mojombo/jekyll) static site generator. Note that only Textile markup language is supported because it allows arbitrary HTML tags (while Markdown does not).
+This is a [Liquid](http://liquidmarkup.org/) filter intended to be used with [Jekyll](http://github.com/mojombo/jekyll) static site generator.
 
 ## Installation
 
